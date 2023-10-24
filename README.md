@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nataliaEmelyanova
+- 👋 Hi, I’m @NataliaEmelianova
 - 👀 I’m interested in  HTML,CSS,JS
 - 🌱 I’m currently learning HTML,CSS,JS
 <!---
